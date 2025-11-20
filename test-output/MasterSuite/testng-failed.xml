@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MasterSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="os" value="windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+      <run>
+        <include name="sanity"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="TestCases.TC_02_LoginAppilication">
+        <methods>
+          <include name="LoginApplication"/>
+        </methods>
+      </class> <!-- TestCases.TC_02_LoginAppilication -->
+      <class name="TestCases.TC_01_AccountRegister">
+        <methods>
+          <include name="AccountRegister"/>
+        </methods>
+      </class> <!-- TestCases.TC_01_AccountRegister -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [MasterSuite] -->

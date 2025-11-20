@@ -1,0 +1,61 @@
+2025-11-20 13:34:55 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aroopa\eclipse-workspace\nopcommerce\testng.xml
+
+2025-11-20 15:32:50 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aroopa\eclipse-workspace\nopcommerce\testng.xml
+
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 9 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 1 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aroopa\AppData\Local\Temp\testng-eclipse--664535374\testng-customsuite.xml
+
+2025-11-20 15:33:32 INFO  Utils:112 - [Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@340da44c: 0 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@56e8b606: 84 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.jq.Main@5c530d1e: 118 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.FailedReporter@4795ded0: 31 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.XMLReporter@25bc0606: 13 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@62f68dff: 10 ms
+2025-11-20 15:33:32 INFO  Utils:112 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2a7686a7: 12 ms
+2025-11-20 15:34:23 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aroopa\eclipse-workspace\nopcommerce\grouping.xml
+
+2025-11-20 15:36:13 INFO  Utils:112 - [TestNG] Running:
+  C:\Users\aroopa\eclipse-workspace\nopcommerce\testng.xml
+
+2025-11-20 15:36:18 INFO  TC_01_AccountRegister:25 - **** starting the test case*******
+2025-11-20 15:36:18 INFO  TC_01_AccountRegister:28 - entering the details fo the test cases
+2025-11-20 15:36:20 INFO  TC_01_AccountRegister:39 - Validating expected message..
+2025-11-20 15:36:20 INFO  TC_01_AccountRegister:49 - **** test case 01 is successfully exceuted**********
+2025-11-20 15:36:49 INFO  TC_01_AccountRegister:25 - **** starting the test case*******
+2025-11-20 15:36:50 INFO  TC_01_AccountRegister:28 - entering the details fo the test cases
+2025-11-20 15:36:51 INFO  TC_01_AccountRegister:39 - Validating expected message..
+2025-11-20 15:36:51 INFO  TC_01_AccountRegister:49 - **** test case 01 is successfully exceuted**********
